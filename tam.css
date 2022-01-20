@@ -697,6 +697,10 @@ nav ul li a:hover i{
         width: 0;
         height: 0;
     }
+     .tem-area .container{
+        position: relative;
+        top: 160px;
+    }
 
 
 }
@@ -729,10 +733,7 @@ nav ul li a:hover i{
     .tem-area{
         height: 530px;
     }
-    .tem-area .container{
-        position: relative;
-        top: 160px;
-    }
+   
     .safe .container .card{
         padding-right: 0;
     }
